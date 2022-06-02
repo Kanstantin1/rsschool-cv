@@ -22,7 +22,7 @@ GitHub: [Kanstantin1](https://github.com/Kanstantin1)
 * Photoshop
 
 4. ## Projects
-* [My first encounter with HTML and CSS](kanstantin1.github.io/first-one)
+* [My first encounter with HTML and CSS](https://kanstantin1.github.io/First-one/)
 * [My CV](https://kanstantin1.github.io/rsschool-cv/cv)
 
 5. ## Education
