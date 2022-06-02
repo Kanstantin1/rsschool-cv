@@ -1,4 +1,6 @@
-**Junior Frontend Developer**
+1. # Kanstantsin Famenok
+
+   **Junior Frontend Developer**
 
 ![MyPhoto](img/myPhoto.jpg)
 
